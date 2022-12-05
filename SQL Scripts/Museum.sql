@@ -39,7 +39,7 @@ VALUES
 (20, 'Antonio Canova', 1822, 'Perseus', 'France', null, 'Romantic Period', 'Statue', 'Owned'),
 (21, 'Paul Bril', 1626, 'Paysage', 'France', null, 'Renaissance', 'Painting', 'Borrowed'),
 (22, 'Simone Pignoni', 1698, 'Vierge à l Enfant', 'Egypt', null, 'Renaissance', 'Painting', 'Borrowed'),
-(23, 'Paul Bril', 1874, 'Figurine', 'Greece', null, 'Greece', 'Realistic Period', 'Sculpture', 'Borrowed'),
+(23, 'Paul Bril', 1874, 'Figurine', 'Greece', null, 'Realistic Period', 'Sculpture', 'Borrowed'),
 (24, 'Paul Bril', 1929, 'Oiseau', 'Egypt', null, 'Realistic Period', 'Sculpture', 'Borrowed'),
 (25, 'Cristoforo Solari', 1550, 'Homme', 'Egypt', null, 'Renaissance', 'Statue', 'Borrowed'),
 (26, 'Antonio Leonelli', 1512, 'Roi', 'Italy', null, 'Renaissance', 'Statue', 'Borrowed');
