@@ -1,7 +1,7 @@
 import sys
 import functions
 
-
+#This is a random message
 while( True ):
 
     s=functions.display_Type_of_Users()
