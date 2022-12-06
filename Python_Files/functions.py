@@ -42,11 +42,18 @@ def user_access_mgmt():
               3 - Quit Application\n""")
         if (s == "1"):
             print("You Selected Add User Operation")
+            #function call to add a user
         elif (s == "2"):
             print("You Selected Remove User Operation")
+            #function call to remove a user 
         elif (s == "3"):
             print("Quitting Application")
             sys.exit(0)
         else:
             print("Please enter a valid key...")
         print("\n")
+#Funtions to execute the User access Management
+
+#def add_user():
+
+#def remove_user():
