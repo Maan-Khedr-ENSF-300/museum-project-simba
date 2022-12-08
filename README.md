@@ -23,9 +23,13 @@ For running this program you must follow these instructions:
 Here are the connection details:
 
  host='127.0.0.1'
+ 
  user='root'
+ 
  password='admin'
+ 
  database='museum'
+ 
 
 
 
