@@ -1,10 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9517378&assignment_repo_type=AssignmentRepo)
 # Museum-Project
 ## To Do list:
-- modify this file to include your group members information and tasks assigned per each *import sys : This is to import the python system package
- *import mysql.connector: This connects Mysql database 
- *import IPython.display import display:  This is for displaying tabular data 
- *import pandas: For displaying dataframe 
+- modify this file to include your group members information and tasks assigned per each 
+- 
+*import sys : This is to import the python system package
+*import mysql.connector: This connects Mysql database 
+*import IPython.display import display:  This is for displaying tabular data 
+*import pandas: For displaying dataframe 
 
  ---------For connecting to musuem databse--------
 For running this program you must follow these instructions:
