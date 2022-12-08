@@ -16,9 +16,9 @@ For running this program you must follow these instructions:
 
 -Create museum database at local host
 
--user must be 'root;
+-user must be 'root'
 
--password must be 'admin
+-password must be 'admin'
 
 Here are the connection details:
 
