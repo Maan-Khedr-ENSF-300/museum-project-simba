@@ -2,15 +2,22 @@
 # Museum-Project
 ## To Do list:
 
--import sys : This is to import the python system package
+-import sys : This is to import the python system package     
+
 -import mysql.connector: This connects Mysql database 
+
 -import IPython.display import display:  This is for displaying tabular data 
+
 -import pandas: For displaying dataframe 
 
  ---------For connecting to musuem databse--------
+ 
 For running this program you must follow these instructions:
+
 -Create museum database at local host
--user shomust be 'root;
+
+-user must be 'root;
+
 -password must be 'admin
 
 Here are the connection details:
@@ -19,6 +26,8 @@ Here are the connection details:
  user='root'
  password='admin'
  database='museum'
+
+
 
 Sneha Dubey (30144651, sneha.dubey@ucalgary.ca) : 
 join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the sql scripts, help with the work on the python application, and make any final edits and touches to the repository and submission requirements. 
