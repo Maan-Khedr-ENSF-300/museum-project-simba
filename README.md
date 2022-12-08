@@ -2,11 +2,12 @@
 # Museum-Project
 ## To Do list:
 - modify this file to include your group members information and tasks assigned per each 
-- 
-*import sys : This is to import the python system package
-*import mysql.connector: This connects Mysql database 
-*import IPython.display import display:  This is for displaying tabular data 
-*import pandas: For displaying dataframe 
+
+
+-import sys : This is to import the python system package
+-import mysql.connector: This connects Mysql database 
+-import IPython.display import display:  This is for displaying tabular data 
+-import pandas: For displaying dataframe 
 
  ---------For connecting to musuem databse--------
 For running this program you must follow these instructions:
