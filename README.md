@@ -30,6 +30,8 @@ Here are the connection details:
  
  database='museum'
  
+ 
+ Note: Install this pacakge for connecting mySQL DB: "install mysql-connector-python"
 
 
 
