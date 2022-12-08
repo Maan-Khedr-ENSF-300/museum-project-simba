@@ -18,7 +18,7 @@ DESCRIBE exhibition;
 Select Name, DateBorn, DateDied, MainStyle, 
 Description
 From artist 
-Where `Country`="France"
+Where Country ="France";
 
 
 -- TASK 3: A retrieval query with ordered results 
