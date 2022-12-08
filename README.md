@@ -2,6 +2,19 @@
 # Museum-Project
 ## To Do list:
 - modify this file to include your group members information and tasks assigned per each
+
+Sneha Dubey (30144651, sneha.dubey@ucalgary.ca) : 
+join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the sql scripts, help with the work on the python application, and make any final edits and touches to the repository and submission requirements. 
+
+Aly Mohamed (30139727, aly.mohamed@ucalgary.ca) : 
+join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the python application, and make any final edits and touches to the repository and submission requirements.
+
+Wesam Omran (30133992, wesam.omran1@ucalgary.ca) : 
+join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the sql scripts, make any final edits and touches to the repository and submission requirements, and make a digital copy of the ERD/relational model if possible. 
+
+Caleb Oviawe (30164655, osamede.oviawe@ucalgary.ca) : 
+join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the python application, make any final edits and touches to the repository and submission requirements, and make a digital copy of the ERD/relational model if possible.
+
 - modify this file to include any notes on how to use and run the program
 - include any features you have added beyond the minimum requirements in a features list
 
