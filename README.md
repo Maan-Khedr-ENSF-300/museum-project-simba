@@ -1,7 +1,23 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9517378&assignment_repo_type=AssignmentRepo)
 # Museum-Project
 ## To Do list:
-- modify this file to include your group members information and tasks assigned per each
+- modify this file to include your group members information and tasks assigned per each *import sys : This is to import the python system package
+ *import mysql.connector: This connects Mysql database 
+ *import IPython.display import display:  This is for displaying tabular data 
+ *import pandas: For displaying dataframe 
+
+ ---------For connecting to musuem databse--------
+For running this program you must follow these instructions:
+-Create museum database at local host
+-user shomust be 'root;
+-password must be 'admin
+
+Here are the connection details:
+
+ host='127.0.0.1'
+ user='root'
+ password='admin'
+ database='museum'
 
 Sneha Dubey (30144651, sneha.dubey@ucalgary.ca) : 
 join in on the discussion of the narrative and the approach to the project, provide rough drafts for the design work, help with the work on the sql scripts, help with the work on the python application, and make any final edits and touches to the repository and submission requirements. 
